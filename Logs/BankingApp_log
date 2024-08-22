@@ -1,0 +1,78 @@
+2024-08-21 12:25:49,143 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 15 : Test Case Create New Customer TC011 In CM Is Started---->>>
+2024-08-21 12:25:49,143 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 17 : opening Browser--->>
+2024-08-21 12:25:53,147 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 19 : Create Variable lp to call LoginPage Methods-->>
+2024-08-21 12:25:53,147 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 21 : Click Login Tab-->>
+2024-08-21 12:25:57,605 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 24 : Entering Username--->>Admin.cred.in
+2024-08-21 12:26:01,706 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 27 : Entering Password--->>Admin@123
+2024-08-21 12:26:05,773 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 30 : Click On Login Button-->>
+2024-08-21 12:26:11,430 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 33 : Create Variable cc To Call CreateCustomer Page Object Methods-->>
+2024-08-21 12:26:15,446 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 36 : Click On Customer Management Tab--->>
+2024-08-21 12:29:38,432 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 15 : Test Case Create New Customer TC011 In CM Is Started---->>>
+2024-08-21 12:29:38,432 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 17 : opening Browser--->>
+2024-08-21 12:29:42,437 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 19 : Create Variable lp to call LoginPage Methods-->>
+2024-08-21 12:29:42,437 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 21 : Click Login Tab-->>
+2024-08-21 12:29:46,883 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 24 : Entering Username--->>Admin.cred.in
+2024-08-21 12:29:50,967 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 27 : Entering Password--->>Admin@123
+2024-08-21 12:29:55,051 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 30 : Click On Login Button-->>
+2024-08-21 12:30:00,748 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 33 : Create Variable cc To Call CreateCustomer Page Object Methods-->>
+2024-08-21 12:30:04,764 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 36 : Click On Customer Management Tab--->>
+2024-08-21 12:30:50,401 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 15 : Test Case Create New Customer TC011 In CM Is Started---->>>
+2024-08-21 12:30:50,401 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 17 : opening Browser--->>
+2024-08-21 12:30:54,414 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 19 : Create Variable lp to call LoginPage Methods-->>
+2024-08-21 12:30:54,414 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 21 : Click Login Tab-->>
+2024-08-21 12:30:58,842 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 24 : Entering Username--->>Admin.cred.in
+2024-08-21 12:31:02,952 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 27 : Entering Password--->>Admin@123
+2024-08-21 12:31:07,020 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 30 : Click On Login Button-->>
+2024-08-21 12:31:12,194 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 33 : Create Variable cc To Call CreateCustomer Page Object Methods-->>
+2024-08-21 12:31:16,209 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 36 : Click On Customer Management Tab--->>
+2024-08-21 12:33:26,026 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 15 : Test Case Create New Customer TC011 In CM Is Started---->>>
+2024-08-21 12:33:26,026 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 17 : opening Browser--->>
+2024-08-21 12:33:30,033 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 19 : Create Variable lp to call LoginPage Methods-->>
+2024-08-21 12:33:30,033 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 21 : Click Login Tab-->>
+2024-08-21 12:33:34,466 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 24 : Entering Username--->>Admin.cred.in
+2024-08-21 12:33:38,569 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 27 : Entering Password--->>Admin@123
+2024-08-21 12:33:42,650 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 30 : Click On Login Button-->>
+2024-08-21 12:33:48,322 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 33 : Create Variable cc To Call CreateCustomer Page Object Methods-->>
+2024-08-21 12:33:52,326 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 36 : Click On Customer Management Tab--->>
+2024-08-21 12:33:57,112 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 41 : Click On Create Customer-->>
+2024-08-21 12:37:30,092 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 15 : Test Case Create New Customer TC011 In CM Is Started---->>>
+2024-08-21 12:37:30,092 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 17 : opening Browser--->>
+2024-08-21 12:37:34,096 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 19 : Create Variable lp to call LoginPage Methods-->>
+2024-08-21 12:37:34,096 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 21 : Click Login Tab-->>
+2024-08-21 12:37:38,531 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 24 : Entering Username--->>Admin.cred.in
+2024-08-21 12:37:42,616 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 27 : Entering Password--->>Admin@123
+2024-08-21 12:37:46,684 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 30 : Click On Login Button-->>
+2024-08-21 12:37:52,457 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 33 : Create Variable cc To Call CreateCustomer Page Object Methods-->>
+2024-08-21 12:37:56,462 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 36 : Click On Customer Management Tab--->>
+2024-08-21 12:38:00,883 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 41 : Click On Create Customer-->>
+2024-08-21 12:38:05,370 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 44 : Entering UserId--->>307
+2024-08-21 12:38:09,433 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 47 : Entering Firstname--->>Jessy
+2024-08-21 12:38:13,515 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 50 : Entering Lastname-->>Mande
+2024-08-21 12:38:17,599 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 53 : Entering Date OF Birth--->>03-04-1996
+2024-08-21 12:38:21,669 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 56 : Entering Address--->>Wagholi, Pune
+2024-08-21 12:38:25,751 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 59 : Entering City-->>Pune
+2024-08-21 12:38:29,832 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 62 : Entering State--->>Maharashtra
+2024-08-21 12:39:04,054 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 15 : Test Case Create New Customer TC011 In CM Is Started---->>>
+2024-08-21 12:39:04,054 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 17 : opening Browser--->>
+2024-08-21 12:39:08,067 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 19 : Create Variable lp to call LoginPage Methods-->>
+2024-08-21 12:39:08,067 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 21 : Click Login Tab-->>
+2024-08-21 12:39:12,499 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 24 : Entering Username--->>Admin.cred.in
+2024-08-21 12:39:16,602 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 27 : Entering Password--->>Admin@123
+2024-08-21 12:39:20,667 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 30 : Click On Login Button-->>
+2024-08-21 12:39:26,526 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 33 : Create Variable cc To Call CreateCustomer Page Object Methods-->>
+2024-08-21 12:39:30,541 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 36 : Click On Customer Management Tab--->>
+2024-08-21 12:39:35,150 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 41 : Click On Create Customer-->>
+2024-08-21 12:39:39,681 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 44 : Entering UserId--->>307
+2024-08-21 12:39:43,765 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 47 : Entering Firstname--->>Jessy
+2024-08-21 12:39:47,834 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 50 : Entering Lastname-->>Mande
+2024-08-21 12:39:51,899 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 53 : Entering Date OF Birth--->>03-04-1996
+2024-08-21 12:39:55,981 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 56 : Entering Address--->>Wagholi, Pune
+2024-08-21 12:40:00,082 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 59 : Entering City-->>Pune
+2024-08-21 12:40:04,167 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 62 : Entering State--->>Maharashtra
+2024-08-21 12:40:08,250 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 65 : Entering Zipcode--->>444145
+2024-08-21 12:40:12,333 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 68 : Click On Create Customer Button-->>>
+2024-08-21 12:40:18,317 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 71 : Validating Customer Creation-->>
+2024-08-21 12:40:21,364 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 74 : Taking Screenshot-->>
+2024-08-21 12:40:27,583 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 79 : Click On Logout Button--->>>
+2024-08-21 12:40:31,400 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 82 : Test Case Create New Customer TC011 In CM Is Pass
+
