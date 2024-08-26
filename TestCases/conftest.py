@@ -1,4 +1,4 @@
-import pytest
+import pytest as pytest
 from selenium import webdriver
 
 chrome_options = webdriver.ChromeOptions()

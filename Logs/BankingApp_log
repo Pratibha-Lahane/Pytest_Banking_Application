@@ -76,3 +76,198 @@
 2024-08-21 12:40:27,583 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 79 : Click On Logout Button--->>>
 2024-08-21 12:40:31,400 : INFO :  Test_CreateNewCustomer_CM_class : test_CreateNewCustomer_TC011 : 82 : Test Case Create New Customer TC011 In CM Is Pass
 
+2024-08-23 13:48:09,156 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 16 : Test Case Customer Search CM TC012 Is Started--->>>>
+2024-08-23 13:48:12,164 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 19 : Opening Browser--->>>
+2024-08-23 13:48:15,167 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 21 : Create Variable 'lp' To Call Login Page Object Methods--->>
+2024-08-23 13:48:15,167 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 23 : Click Login Tab-->>
+2024-08-23 13:48:18,569 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 26 : Entering Username-->>Admin.cred.in
+2024-08-23 13:48:21,777 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 29 : Entering Password--->>Admin@123
+2024-08-23 13:48:24,863 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 32 : Click On Login Button-->>
+2024-08-23 13:48:28,876 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 35 : Create Variable 'cc' To Call CreateCustomer_Page object Methods--->>
+2024-08-23 13:48:31,882 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 38 : Click On Customer Management Tab--->>>
+2024-08-23 13:48:35,469 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 41 : Create Variable 'sc' To Call CustomerSearch_CM Page Object Methods--->>
+2024-08-23 13:48:38,473 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 44 : Entering CustomerID--->>>242
+2024-08-23 13:51:27,441 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 16 : Test Case Customer Search CM TC012 Is Started--->>>>
+2024-08-23 13:51:30,445 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 19 : Opening Browser--->>>
+2024-08-23 13:51:33,453 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 21 : Create Variable 'lp' To Call Login Page Object Methods--->>
+2024-08-23 13:51:33,453 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 23 : Click Login Tab-->>
+2024-08-23 13:51:36,954 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 26 : Entering Username-->>Admin.cred.in
+2024-08-23 13:51:40,133 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 29 : Entering Password--->>Admin@123
+2024-08-23 13:51:43,304 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 32 : Click On Login Button-->>
+2024-08-23 13:51:47,656 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 35 : Create Variable 'cc' To Call CreateCustomer_Page object Methods--->>
+2024-08-23 13:51:50,672 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 38 : Click On Customer Management Tab--->>>
+2024-08-23 13:51:54,284 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 41 : Create Variable 'sc' To Call CustomerSearch_CM Page Object Methods--->>
+2024-08-23 13:51:57,298 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 44 : Entering CustomerID--->>>242
+2024-08-23 13:52:00,472 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 47 : Click On SearchCustomer Button --->>>
+2024-08-23 14:16:10,520 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 16 : Test Case Customer Search CM TC012 Is Started--->>>>
+2024-08-23 14:16:13,527 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 19 : Opening Browser--->>>
+2024-08-23 14:16:16,539 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 21 : Create Variable 'lp' To Call Login Page Object Methods--->>
+2024-08-23 14:16:16,539 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 23 : Click Login Tab-->>
+2024-08-23 14:16:20,239 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 26 : Entering Username-->>Admin.cred.in
+2024-08-23 14:16:23,333 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 29 : Entering Password--->>Admin@123
+2024-08-23 14:16:26,514 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 32 : Click On Login Button-->>
+2024-08-23 14:16:31,095 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 35 : Create Variable 'cc' To Call CreateCustomer_Page object Methods--->>
+2024-08-23 14:16:34,104 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 38 : Click On Customer Management Tab--->>>
+2024-08-23 14:16:37,703 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 41 : Create Variable 'sc' To Call CustomerSearch_CM Page Object Methods--->>
+2024-08-23 14:16:40,705 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 44 : Entering CustomerID--->>>242
+2024-08-23 14:16:43,875 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 47 : Click On SearchCustomer Button --->>>
+2024-08-23 14:16:55,485 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 54 : Validate Customer Search--->>
+2024-08-23 14:16:58,544 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 68 : Taking Screenshot--->>>
+2024-08-23 14:17:01,774 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 71 : Click On LogOut Button--->>>
+2024-08-23 14:17:05,524 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 74 : <<<----Test Case Customer Search CM TC012 Is Fail---->>
+
+2024-08-23 14:23:33,976 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 16 : Test Case Customer Search CM TC012 Is Started--->>>>
+2024-08-23 14:23:36,980 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 19 : Opening Browser--->>>
+2024-08-23 14:23:39,984 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 21 : Create Variable 'lp' To Call Login Page Object Methods--->>
+2024-08-23 14:23:39,984 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 23 : Click Login Tab-->>
+2024-08-23 14:23:43,353 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 26 : Entering Username-->>Admin.cred.in
+2024-08-23 14:23:46,558 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 29 : Entering Password--->>Admin@123
+2024-08-23 14:23:49,682 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 32 : Click On Login Button-->>
+2024-08-23 14:23:55,259 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 35 : Create Variable 'cc' To Call CreateCustomer_Page object Methods--->>
+2024-08-23 14:23:58,266 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 38 : Click On Customer Management Tab--->>>
+2024-08-23 14:24:02,489 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 41 : Create Variable 'sc' To Call CustomerSearch_CM Page Object Methods--->>
+2024-08-23 14:24:05,494 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 44 : Entering CustomerID--->>>242
+2024-08-23 14:24:08,659 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 47 : Click On SearchCustomer Button --->>>
+2024-08-23 14:24:20,112 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 54 : Validate Customer Search--->>
+2024-08-23 14:24:23,184 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 68 : Taking Screenshot--->>>
+2024-08-23 14:24:26,385 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 71 : Click On LogOut Button--->>>
+2024-08-23 14:24:29,912 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 74 : <<<----Test Case Customer Search CM TC012 Is Fail---->>
+
+2024-08-23 14:26:57,943 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 16 : Test Case Customer Search CM TC012 Is Started--->>>>
+2024-08-23 14:27:00,945 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 19 : Opening Browser--->>>
+2024-08-23 14:27:03,951 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 21 : Create Variable 'lp' To Call Login Page Object Methods--->>
+2024-08-23 14:27:03,951 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 23 : Click Login Tab-->>
+2024-08-23 14:27:07,537 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 26 : Entering Username-->>Admin.cred.in
+2024-08-23 14:27:10,757 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 29 : Entering Password--->>Admin@123
+2024-08-23 14:27:13,923 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 32 : Click On Login Button-->>
+2024-08-23 14:27:17,414 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 35 : Create Variable 'cc' To Call CreateCustomer_Page object Methods--->>
+2024-08-23 14:27:20,419 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 38 : Click On Customer Management Tab--->>>
+2024-08-23 14:27:23,824 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 41 : Create Variable 'sc' To Call CustomerSearch_CM Page Object Methods--->>
+2024-08-23 14:27:26,838 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 44 : Entering CustomerID--->>>242
+2024-08-23 14:27:30,009 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 47 : Click On SearchCustomer Button --->>>
+2024-08-23 14:27:41,394 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 54 : Validate Customer Search--->>
+2024-08-23 14:27:44,475 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 57 : Taking Screenshot--->>>
+2024-08-23 14:27:47,671 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 60 : Click On LogOut Button--->>>
+2024-08-23 14:27:51,247 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 63 : <<<----Test Case Customer Search CM TC012 Is Pass---->>
+
+2024-08-23 14:27:51,247 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 77 : Closing Browser--->>>
+2024-08-24 20:03:16,793 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 16 : Test Case Customer Edit CM TC013 Is Started--->>>
+2024-08-24 20:03:19,810 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 19 : Opening Browser--->>>
+2024-08-24 20:03:22,819 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 21 : Create Variable lp To Call LoginPage Objects Methods--->>>
+2024-08-24 20:03:25,833 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 24 : Click On Login Tab--->>
+2024-08-24 20:03:29,157 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 27 : Entering Username-->>Admin.cred.in
+2024-08-24 20:03:32,303 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 30 : Entering Password--->>>Admin@123
+2024-08-24 20:03:35,370 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 33 : Click On Login Button-->>
+2024-08-24 20:03:39,540 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 36 : Create Variable cc To Call CreateCustomer Page Objects Methods-->> 
+2024-08-24 20:03:42,550 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 39 : Click On Customer Management Tab--->>>
+2024-08-24 20:03:46,088 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 42 : Create Variable ec To Call CustomerEdit Page Objects Methods--->>
+2024-08-24 20:03:49,089 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 45 : Click On View All Customer--->>>
+2024-08-24 20:03:52,524 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 48 : Click On Edit Button--->>>
+2024-08-24 20:03:56,371 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 51 : Entering New Address--->>>Shivaji Nagar Pune
+2024-08-24 20:03:59,466 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 54 : Click On Save Changes Button--->>>
+2024-08-24 20:04:03,722 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 58 : Validate Customer Address Updated--->>
+2024-08-24 20:04:06,783 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 61 : Taking Screenshot--->>>
+2024-08-24 20:04:09,977 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 64 : Click On Logout Button-->>
+2024-08-24 20:04:13,435 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 67 : Test Case Customer Edit CM TC013 Is Pass--->>>
+
+2024-08-24 20:04:13,435 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 81 : Closing Browser--->>>
+2024-08-24 20:05:19,136 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 16 : Test Case Customer Edit CM TC013 Is Started--->>>
+2024-08-24 20:05:22,148 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 19 : Opening Browser--->>>
+2024-08-24 20:05:25,154 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 21 : Create Variable lp To Call LoginPage Objects Methods--->>>
+2024-08-24 20:05:28,169 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 24 : Click On Login Tab--->>
+2024-08-24 20:05:31,556 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 27 : Entering Username-->>Admin.cred.in
+2024-08-24 20:05:34,654 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 30 : Entering Password--->>>Admin@123
+2024-08-24 20:05:37,737 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 33 : Click On Login Button-->>
+2024-08-24 20:05:42,391 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 36 : Create Variable cc To Call CreateCustomer Page Objects Methods-->> 
+2024-08-24 20:05:45,395 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 39 : Click On Customer Management Tab--->>>
+2024-08-24 20:05:48,805 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 42 : Create Variable ec To Call CustomerEdit Page Objects Methods--->>
+2024-08-24 20:05:51,806 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 45 : Click On View All Customer--->>>
+2024-08-24 20:05:55,220 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 48 : Click On Edit Button--->>>
+2024-08-24 20:05:58,637 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 51 : Entering New Address--->>>Shivaji Nagar Pune
+2024-08-24 20:06:01,752 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 54 : Click On Save Changes Button--->>>
+2024-08-24 20:06:05,872 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 58 : Validate Customer Address Updated--->>
+2024-08-24 20:06:08,934 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 61 : Taking Screenshot--->>>
+2024-08-24 20:06:12,129 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 64 : Click On Logout Button-->>
+2024-08-24 20:06:16,148 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 67 : Test Case Customer Edit CM TC013 Is Pass--->>>
+
+2024-08-24 20:06:16,148 : INFO :  Test_CustomerEdit_CM_Class : test_EditCustomer_CM_TC013 : 81 : Closing Browser--->>>
+2024-08-24 20:07:09,035 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 16 : Test Case Customer Search CM TC012 Is Started--->>>>
+2024-08-24 20:07:12,048 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 19 : Opening Browser--->>>
+2024-08-24 20:07:15,062 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 21 : Create Variable 'lp' To Call Login Page Object Methods--->>
+2024-08-24 20:07:15,062 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 23 : Click Login Tab-->>
+2024-08-24 20:07:18,345 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 26 : Entering Username-->>Admin.cred.in
+2024-08-24 20:07:21,425 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 29 : Entering Password--->>Admin@123
+2024-08-24 20:07:24,491 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 32 : Click On Login Button-->>
+2024-08-24 20:07:28,779 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 35 : Create Variable 'cc' To Call CreateCustomer_Page object Methods--->>
+2024-08-24 20:07:31,794 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 38 : Click On Customer Management Tab--->>>
+2024-08-24 20:07:35,460 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 41 : Create Variable 'sc' To Call CustomerSearch_CM Page Object Methods--->>
+2024-08-24 20:07:38,475 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 44 : Entering CustomerID--->>>242
+2024-08-24 20:07:41,555 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 47 : Click On SearchCustomer Button --->>>
+2024-08-24 20:07:52,876 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 54 : Validate Customer Search--->>
+2024-08-24 20:07:55,922 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 57 : Taking Screenshot--->>>
+2024-08-24 20:07:59,115 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 60 : Click On LogOut Button--->>>
+2024-08-24 20:08:02,972 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 63 : <<<----Test Case Customer Search CM TC012 Is Pass---->>
+
+2024-08-24 20:08:02,972 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 77 : Closing Browser--->>>
+2024-08-24 20:09:32,865 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 16 : Test Case Customer Search CM TC012 Is Started--->>>>
+2024-08-24 20:09:35,873 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 19 : Opening Browser--->>>
+2024-08-24 20:09:38,873 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 21 : Create Variable 'lp' To Call Login Page Object Methods--->>
+2024-08-24 20:09:38,873 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 23 : Click Login Tab-->>
+2024-08-24 20:09:42,176 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 26 : Entering Username-->>Admin.cred.in
+2024-08-24 20:09:45,271 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 29 : Entering Password--->>Admin@123
+2024-08-24 20:09:48,356 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 32 : Click On Login Button-->>
+2024-08-24 20:09:53,702 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 35 : Create Variable 'cc' To Call CreateCustomer_Page object Methods--->>
+2024-08-24 20:09:56,717 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 38 : Click On Customer Management Tab--->>>
+2024-08-24 20:10:00,239 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 41 : Create Variable 'sc' To Call CustomerSearch_CM Page Object Methods--->>
+2024-08-24 20:10:03,242 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 44 : Entering CustomerID--->>>242
+2024-08-24 20:10:06,303 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 47 : Click On SearchCustomer Button --->>>
+2024-08-24 20:10:17,708 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 54 : Validate Customer Search--->>
+2024-08-24 20:10:20,754 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 57 : Taking Screenshot--->>>
+2024-08-24 20:10:23,935 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 60 : Click On LogOut Button--->>>
+2024-08-24 20:10:27,538 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 63 : <<<----Test Case Customer Search CM TC012 Is Pass---->>
+
+2024-08-24 20:10:27,538 : INFO :  Test_CustomerSearch_CM_class : test_CustomerSearch_CM_TC012 : 77 : Closing Browser--->>>
+2024-08-24 21:09:01,930 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 16 : Test Case Delete Customer CM TC014 Is Started--->>>
+2024-08-24 21:09:04,945 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 19 : Opening Browser--->>>
+2024-08-24 21:09:07,960 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 21 : Create Variable lp To Call LoginPage Objects Methods--->>>
+2024-08-24 21:09:10,975 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 24 : Click On Login Tab--->>
+2024-08-24 21:09:14,275 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 27 : Entering Username-->>Admin.cred.in
+2024-08-24 21:09:17,370 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 30 : Entering Password--->>>Admin@123
+2024-08-24 21:09:20,454 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 33 : Click On Login Button-->>
+2024-08-24 21:09:24,714 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 36 : Create Variable cc To Call CreateCustomer Page Objects Methods-->> 
+2024-08-24 21:09:27,722 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 39 : Click On Customer Management Tab--->>>
+2024-08-24 21:09:31,008 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 42 : Create Variable ec To Call CustomerEdit Page Objects Methods--->>
+2024-08-24 21:09:34,008 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 45 : Click On View All Customer--->>>
+2024-08-24 21:09:38,139 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 48 : Create Variable dc To Call DeleteCustomer_Page Object Methods-->>
+2024-08-24 21:09:41,141 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 51 : Clicking On Delete Button--->>>
+2024-08-24 21:09:44,523 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 54 : Validate Customer Deleted--->>>
+2024-08-24 21:13:10,341 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 16 : Test Case Delete Customer CM TC014 Is Started--->>>
+2024-08-24 21:13:13,348 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 19 : Opening Browser--->>>
+2024-08-24 21:13:16,352 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 21 : Create Variable lp To Call LoginPage Objects Methods--->>>
+2024-08-24 21:13:19,367 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 24 : Click On Login Tab--->>
+2024-08-24 21:13:22,648 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 27 : Entering Username-->>Admin.cred.in
+2024-08-24 21:13:25,740 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 30 : Entering Password--->>>Admin@123
+2024-08-24 21:13:28,822 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 33 : Click On Login Button-->>
+2024-08-24 21:13:33,294 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 36 : Create Variable cc To Call CreateCustomer Page Objects Methods-->> 
+2024-08-24 21:13:36,309 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 39 : Click On Customer Management Tab--->>>
+2024-08-24 21:13:39,840 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 42 : Create Variable ec To Call CustomerEdit Page Objects Methods--->>
+2024-08-24 21:13:42,841 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 45 : Click On View All Customer--->>>
+2024-08-24 21:13:46,190 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 48 : Create Variable dc To Call DeleteCustomer_Page Object Methods-->>
+2024-08-24 21:13:49,206 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 51 : Clicking On Delete Button--->>>
+2024-08-24 21:13:52,523 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 54 : Validate Customer Deleted--->>>
+2024-08-24 21:15:16,212 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 16 : Test Case Delete Customer CM TC014 Is Started--->>>
+2024-08-24 21:15:19,223 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 19 : Opening Browser--->>>
+2024-08-24 21:15:22,231 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 21 : Create Variable lp To Call LoginPage Objects Methods--->>>
+2024-08-24 21:15:25,234 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 24 : Click On Login Tab--->>
+2024-08-24 21:15:28,535 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 27 : Entering Username-->>Admin.cred.in
+2024-08-24 21:15:31,624 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 30 : Entering Password--->>>Admin@123
+2024-08-24 21:15:34,690 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 33 : Click On Login Button-->>
+2024-08-24 21:15:38,761 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 36 : Create Variable cc To Call CreateCustomer Page Objects Methods-->> 
+2024-08-24 21:15:41,763 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 39 : Click On Customer Management Tab--->>>
+2024-08-24 21:15:45,109 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 42 : Create Variable ec To Call CustomerEdit Page Objects Methods--->>
+2024-08-24 21:15:48,110 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 45 : Click On View All Customer--->>>
+2024-08-24 21:15:51,448 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 48 : Create Variable dc To Call DeleteCustomer_Page Object Methods-->>
+2024-08-24 21:15:54,457 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 51 : Clicking On Delete Button--->>>
+2024-08-24 21:15:57,795 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 54 : Validate Customer Deleted--->>>
+2024-08-24 21:54:05,255 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 16 : Test Case Delete Customer CM TC014 Is Started--->>>
+2024-08-24 21:54:08,258 : INFO :  Test_DeleteCustomer_CM_class : test_DeleteCustomer_CM_TC014 : 19 : Opening Browser--->>>

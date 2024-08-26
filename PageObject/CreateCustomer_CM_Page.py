@@ -17,7 +17,6 @@ class CreateCustomer_CM_Page:
     Click_On_CreateCustomer_Button_Xpath = (By.XPATH, "//button[@type='submit']")
     Success_Msg_Xpath = (By.XPATH, "//div[@class='success-message']")
 
-
     def __init__(self, driver):
         self.driver = driver
         self.wait = WebDriverWait(self.driver, 10)
@@ -89,4 +88,3 @@ class CreateCustomer_CM_Page:
         else:
             print("Test Case Create Customer CM Is Fail..")
             return "Customer_Creation Fail"
-
